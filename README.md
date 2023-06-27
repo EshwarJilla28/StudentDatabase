@@ -1,0 +1,2 @@
+# StudentDatabase
+Student Management system is a management information system for educational systems to manage students’ data. It includes the idea of topics like structure, loops, arrays, if-else, switch, and so on. It helps the user to store student data and make changes to it such as Show, Update, Delete, and Search. The features of C++ programming language have helped me here to manage data and apply logic to the program.
